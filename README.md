@@ -1,5 +1,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=toshmaina&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4039b03-d67f-44c9-a34a-f617ce75418a/deploy-status)](https://app.netlify.com/sites/writersapi/deploys)
 
 <!--
 **toshmaina/toshmaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
